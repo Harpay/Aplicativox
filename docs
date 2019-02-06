@@ -17,4 +17,14 @@ Aplicativo de utilização pessoal e comercial, sobre indicações de estabeleci
 De inicio é aberto no sitema a tela de cadastro, logo apos o cadastramento o cliente pode ter acesso aos menus de opções escolhenado assim
 as categorias que mais se encaixam ao seus padrões. Através da localização o cliente tem a opção de escolher o perimetro desejado, tornando assim
 o aplicativo rapído e eficiente. Após a escolha do local e faixas de preço é exibido para o cliente suas opções, finalizando assim seu uso.
- 
+
+		CODIFICAÇÃO
+		
+• Escopo do app na melhor lingaguem para o objetivo;
+• Fazer as conexões necessárias para funcionamento correto com banco de dados;
+• Incluir conexão com algum sistema de mapas. ex: Google Maps; 
+• Incluir todos os componentes necessários para parte visual do app;
+
+Criando um modelo Beta do app para verificar e ajustar todos os compenentes necessários e avaliar se tudo se encaixa e o que pode ser modificado
+com o que o cliente espera do app. Iniciar fase de testes quando tudo estiver funcionando com as integrações e o banco de dados. 
+	       
