@@ -1,4 +1,6 @@
-		REQUÍSITOS DE ANÁLISE 
+Robson Da Silva Martins RA:1801442
+
+REQUÍSITOS DE ANÁLISE 
 
 Aplicativo de utilização pessoal e comercial, sobre indicações de estabelecimentos e lazer, onde pessoas podem compartilhar informações como preço, avaliação e distância.
 
@@ -7,7 +9,13 @@ Aplicativo de utilização pessoal e comercial, sobre indicações de estabeleci
 •	Interface: Tela de cadastro, campo de busca no mapa e filtros
 •	Perfil: Cliente/Estabelecimento
 
-		DESIGN DO PROJETO
+
+Dijair Vieira Ribeiro RA:1801921
+Paulo William Paixão da Silva RA:1802012
+
+
+DESIGN DO PROJETO
+        
 		
 • Tela de cadastro/login;
 • Barra horizontal de busca;
@@ -18,7 +26,11 @@ De inicio é aberto no sistema a tela de cadastro, logo após o cadastramento o 
 as categorias que mais se encaixam ao seus padrões. Através da localização o cliente tem a opção de escolher o perimetro desejado, tornando assim
 o aplicativo rapído e eficiente. Após a escolha do local e faixas de preço, é exibido para o cliente suas opções, finalizando assim seu uso.
 
-		CODIFICAÇÃO - Gabriel Cardoso Monje - RA: 1601133
+
+Gabriel Cardoso Monje
+RA: 1601133
+
+CODIFICAÇÃO
 		
 • Escopo do app na melhor linguaguem para o objetivo;
 • Fazer as conexões necessárias para funcionamento correto com banco de dados;
@@ -27,24 +39,31 @@ o aplicativo rapído e eficiente. Após a escolha do local e faixas de preço, �
 
 Criando um modelo Beta do app para verificar e ajustar todos os compenentes necessários e avaliar se tudo se encaixa e o que pode ser modificado
 com o que o cliente espera do app. Iniciar fase de testes quando tudo estiver funcionando com as integrações e o banco de dados. 
+
 	       
-		TESTES - Gabriel Gamoski Guenda - RA:1802032
+Gabriel Gamoski Guenda - RA:1802032
+
+TESTES 
 
 REQUÍSITOS DE ANÁLISE
-•Plataforma: Móbile,  Android/IOS						OK
-•Integração:  Wi-fi, GPS, Google						OK 
-•Interface: Tela de cadastro, campo de busca no mapa e filtros			OK
-•Perfil: Cliente/Estabelecimento						OK
+•Plataforma: Móbile,  Android/IOS						                                    OK
+•Integração:  Wi-fi, GPS, Google					                        	            OK 
+•Interface: Tela de cadastro, campo de busca no mapa e filtros			            OK
+•Perfil: Cliente/Estabelecimento					                        	            OK
 DESIGN DO PROJETO
-• Tela de cadastro/login;							OK
-• Barra horizontal de busca;							OK
-• Botão menu: Contendo perfil, filtros e categorias;				OK
-• Tela central MAPA com localização (permitir localização);			OK
+• Tela de cadastro/login;						                              	            OK
+• Barra horizontal de busca;						                          	            OK
+• Botão menu: Contendo perfil, filtros e categorias;				                    OK
+• Tela central MAPA com localização (permitir localização);			                OK
 CODIFICAÇÃO
-• Escopo do app na melhor linguaguem para o objetivo;				OK
-• Fazer as conexões necessárias para funcionamento correto com banco de dados;	OK
-• Incluir conexão com algum sistema de mapas. ex: Google Maps; 			OK
-• Incluir todos os componentes necessários para parte visual do app;		OK
+• Escopo do app na melhor linguaguem para o objetivo;				                    OK
+• Fazer as conexões necessárias para funcionamento correto com banco de dados;  OK
+• Incluir conexão com algum sistema de mapas. ex: Google Maps; 			            OK
+• Incluir todos os componentes necessários para parte visual do app;		        OK
+
+
+Luana Karoline Morete de Oliveira RA: 1802045
+Patryck Antonio Fragoso RA: 1801422
 
 Operação
 
