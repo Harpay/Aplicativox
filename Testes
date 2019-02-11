@@ -3,18 +3,17 @@ Gabriel Gamoski Guenda - RA:1802032
 TESTES 
 
 REQUÍSITOS DE ANÁLISE
-
-•Plataforma: Móbile,  Android/IOS						                                   OK
-•Integração:  Wi-fi, GPS, Google					                        	           OK 
-•Interface: Tela de cadastro, campo de busca no mapa e filtros			           OK
-•Perfil: Cliente/Estabelecimento					                        	           OK
+•Plataforma: Móbile,  Android/IOS						                                    OK
+•Integração:  Wi-fi, GPS, Google					                        	            OK 
+•Interface: Tela de cadastro, campo de busca no mapa e filtros			            OK
+•Perfil: Cliente/Estabelecimento					                        	            OK
 DESIGN DO PROJETO
-• Tela de cadastro/login;						                              	           OK
-• Barra horizontal de busca;						                          	           OK
-• Botão menu: Contendo perfil, filtros e categorias;				                   OK
-• Tela central MAPA com localização (permitir localização);			               OK
+• Tela de cadastro/login;						                              	            OK
+• Barra horizontal de busca;						                          	            OK
+• Botão menu: Contendo perfil, filtros e categorias;				                    OK
+• Tela central MAPA com localização (permitir localização);			                OK
 CODIFICAÇÃO
-• Escopo do app na melhor linguaguem para o objetivo;				                   OK
-• Fazer as conexões necessárias para funcionamento correto com banco de dados; OK
-• Incluir conexão com algum sistema de mapas. ex: Google Maps; 			           OK
-• Incluir todos os componentes necessários para parte visual do app;		       OK
+• Escopo do app na melhor linguaguem para o objetivo;				                    OK
+• Fazer as conexões necessárias para funcionamento correto com banco de dados;  OK
+• Incluir conexão com algum sistema de mapas. ex: Google Maps; 			            OK
+• Incluir todos os componentes necessários para parte visual do app;		        OK
