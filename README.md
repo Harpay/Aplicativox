@@ -1,2 +1,0 @@
-# Aplicativox
-Aula de devops
